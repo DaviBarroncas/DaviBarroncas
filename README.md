@@ -50,4 +50,4 @@ I am a passionate developer focused on building scalable and efficient solutions
 ### 📊 GitHub Stats
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviBarroncas&show_icons=true&theme=radical)
 
-📫 **How to reach me:** [Insert your LinkedIn Link Here]
+📫 **How to reach me:** davi12bdc@gmail.com
